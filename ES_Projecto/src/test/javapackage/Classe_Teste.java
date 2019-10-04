@@ -11,6 +11,7 @@ public class Classe_Teste {
 	}
 
 
+	//comentario teste
 
 
 	public static void main(String[] args) {
